@@ -48,7 +48,7 @@ body
 
 .navigationlink 
 {
-	word-spacing: normal;	
+	word-spacing: 0;	
 }
 
 .navigationlink a
