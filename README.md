@@ -1,1 +1,0 @@
-# jordycrodriguez.github.io
