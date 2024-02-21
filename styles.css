@@ -1,0 +1,83 @@
+p, div, td, th, tf, li
+{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;	
+	padding-top: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.copyright
+{
+	text-align: left;
+	font-family: Arial;
+	font-size: 10.5px;
+}
+
+.sitetitle
+{
+	font-size: 25px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-weight: 900;
+        margin-top: 0em;
+        margin-bottom: 0em;
+}
+
+.header
+{
+	font-size: 15px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-weight: 900;
+}
+
+.sitesubtitle
+{
+	font-size: 25px;
+        margin-top: 0em;
+        margin-bottom: .4em;
+        color: #ff3300;
+}
+
+.navigationlink 
+{
+	word-spacing:4em;	
+}
+
+.navigationlink a
+{
+	color: #7f8772;
+	text-decoration: none;	
+}
+
+.navigationlink a:hover 
+{
+	color: #0000EE;
+	text-decoration: underline;
+}
+
+
+
+.researchlink 
+{
+	word-spacing:3em;	
+}
+
+.researchlink a
+{
+	color: #7f8772;
+	text-decoration: none;	
+}
+
+.researchlink a:hover 
+{
+	color: #0000EE;
+	text-decoration: underline;
+}
