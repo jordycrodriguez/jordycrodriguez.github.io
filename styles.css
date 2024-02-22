@@ -35,23 +35,29 @@ nav ul li a {
 }
 
 .hero {
-    background-image: url('background.jpg');
+    background-image: url('hero-bg.jpg');
     background-size: cover;
     color: #fff;
     padding: 100px 0;
     text-align: center;
 }
 
-.blog-posts {
+.featured-projects {
     padding: 50px 0;
 }
 
-.post {
+.project {
     margin-bottom: 40px;
 }
 
-.post h3 {
-    margin-top: 0;
+.project img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.project h3 {
+    margin-top: 10px;
 }
 
 footer {
