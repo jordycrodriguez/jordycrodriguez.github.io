@@ -81,3 +81,9 @@ body
 	color: #0000EE;
 	text-decoration: underline;
 }
+
+img{
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
