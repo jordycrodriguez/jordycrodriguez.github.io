@@ -1,66 +1,83 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
+p, div, td, th, tf, li
+{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
+body
+{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;	
+	padding-top: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
-header {
-    background-color: #007bff;
-    color: #fff;
-    padding: 20px 0;
+.copyright
+{
+	text-align: left;
+	font-family: Arial;
+	font-size: 10.5px;
 }
 
-header h1 {
-    margin: 0;
+.sitetitle
+{
+	font-size: 25px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-weight: 900;
+        margin-top: 0em;
+        margin-bottom: 0em;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
+.header
+{
+	font-size: 15px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-weight: 900;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
+.sitesubtitle
+{
+	font-size: 25px;
+        margin-top: 0em;
+        margin-bottom: .4em;
+        color: #ff3300;
 }
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
+.navigationlink 
+{
+	word-spacing: 4em;	
 }
 
-.hero {
-    background-color: #17a2b8;
-    color: #fff;
-    padding: 100px 0;
-    text-align: center;
+.navigationlink a
+{
+	color: #062907;
+	text-decoration: none;	
 }
 
-.latest-posts {
-    padding: 50px 0;
+.navigationlink a:hover 
+{
+	color: #0000EE;
+	text-decoration: underline;
 }
 
-.post {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 40px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+
+.researchlink 
+{
+	word-spacing:3em;	
 }
 
-.post h3 {
-    margin-top: 0;
+.researchlink a
+{
+	color: #062907;
+	text-decoration: none;	
 }
 
-footer {
-    background-color: #007bff;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
+.researchlink a:hover 
+{
+	color: #0000EE;
+	text-decoration: underline;
 }
