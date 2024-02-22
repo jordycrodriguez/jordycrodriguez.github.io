@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f2ed;
+    background-color: #f0f0f0;
 }
 
 .container {
@@ -11,8 +11,8 @@ body {
 }
 
 header {
-    background-color: #d9cbb0;
-    color: #333;
+    background-color: #007bff;
+    color: #fff;
     padding: 20px 0;
 }
 
@@ -31,39 +31,35 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #333;
+    color: #fff;
     text-decoration: none;
 }
 
 .hero {
-    background-color: #a3927f;
+    background-color: #17a2b8;
     color: #fff;
     padding: 100px 0;
     text-align: center;
 }
 
-.featured-projects {
+.latest-posts {
     padding: 50px 0;
 }
 
-.project {
-    background-color: #d9cbb0;
+.post {
+    background-color: #fff;
     padding: 20px;
     margin-bottom: 40px;
-}
-
-.project img {
-    width: 100%;
-    height: auto;
     border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.project h3 {
-    margin-top: 10px;
+.post h3 {
+    margin-top: 0;
 }
 
 footer {
-    background-color: #333;
+    background-color: #007bff;
     color: #fff;
     text-align: center;
     padding: 20px 0;
