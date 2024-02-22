@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f4f2ed;
 }
 
 .container {
@@ -10,8 +11,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #d9cbb0;
+    color: #333;
     padding: 20px 0;
 }
 
@@ -30,13 +31,12 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
 }
 
 .hero {
-    background-image: url('hero-bg.jpg');
-    background-size: cover;
+    background-color: #a3927f;
     color: #fff;
     padding: 100px 0;
     text-align: center;
@@ -47,6 +47,8 @@ nav ul li a {
 }
 
 .project {
+    background-color: #d9cbb0;
+    padding: 20px;
     margin-bottom: 40px;
 }
 
