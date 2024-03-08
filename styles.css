@@ -48,7 +48,7 @@ body
 
 .navigationlink 
 {
-	word-spacing: normal;	
+	word-spacing: 2em;	
 }
 
 .navigationlink a
@@ -67,7 +67,7 @@ body
 
 .researchlink 
 {
-	word-spacing: normal;	
+	word-spacing: 2em;	
 }
 
 .researchlink a
