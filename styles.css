@@ -81,3 +81,8 @@ body
 	color: #0000EE;
 	text-decoration: underline;
 }
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+  }
